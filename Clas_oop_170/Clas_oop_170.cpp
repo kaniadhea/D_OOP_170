@@ -51,4 +51,5 @@ int main() {
 	cout << endl;
 	mk.tampilMK();
 
-};
+	system("pause");
+}
