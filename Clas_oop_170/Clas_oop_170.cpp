@@ -46,4 +46,9 @@ int main() {
 
 
 
+	mk.inputMK();
+	mhs.tampil();
+	cout << endl;
+	mk.tampilMK();
+
 };
